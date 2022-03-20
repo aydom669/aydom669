@@ -30,4 +30,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
  ![Snake animation](https://github.com/aydom996/aydom669/blob/output/github-contribution-grid-snake.svg)
  
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=aydom669&repo=aydom669&theme=react)](https://github.com/aydom669/aydom669)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=aydom669&repo=aydom669&theme=react)](https://github.com/aydom669)
