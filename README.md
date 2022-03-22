@@ -27,6 +27,8 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydom669&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aydom669)](https://github.com/aydom669)
+
  ![Snake animation](https://github.com/aydom669/aydom669/blob/output/github-contribution-grid-snake.svg)
  
  
