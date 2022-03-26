@@ -33,4 +33,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=aydom669&repo=aydom669&theme=react)](https://github.com/aydom669)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aydom669&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
