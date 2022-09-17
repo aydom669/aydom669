@@ -9,7 +9,7 @@
 
 I'm a Front End Developer :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+Sou um Desenvolvedor Web alto de data atualmente atuando no desenvolvimento da parte client side (  front end ) , minhas qualidades e a minha dedicação em sempre se manter atualizado e apto a aprender novas tecnologias.
 
 ## My specialties:
 
