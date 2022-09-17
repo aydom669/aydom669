@@ -19,7 +19,8 @@ Sou um Desenvolvedor Web alto de data atualmente atuando no desenvolvimento da p
 
 
 ### Version Control : <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-### Plataforma de Ensino : <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src=" https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+### Plataforma de Ensino : <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/> 
+
 
 
 ## What I don't know, give me a few days 😁
